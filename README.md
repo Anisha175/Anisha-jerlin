@@ -101,6 +101,6 @@
             <a href="#" class="resume-button">Download CV</a>
         </div>
     </div>
-    <div class="footer">&copy; 2025 Anlisha Jerlin</div>
+    <div class="footer">&copy; 2024 Anlisha Jerlin</div>
 </body>
 </html>
